@@ -14,7 +14,10 @@
 [google](https://www.goggle.com)  
 <https://www.hallym.ac.kr
 
-[1]: https://www.goggle.com
+[1]: https://www.goggle.com  
+
+--------------------------  
+![고라파덕](img.PNG)  
 
 *이탤릭체*
 _이탤릭췍_
