@@ -5,6 +5,7 @@ RESUME
 >>>Department : LifeScience / Computer Science 
 Grade : 2th
 ------------------------
+![1](22222222.jpg)
 #### CLASS 
 - OpenSourceLinux   
 - JavaProgramming    
