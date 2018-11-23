@@ -26,8 +26,7 @@ Grade : 2th
 - Korean  
 - English  
 - Java  
-![2](2.png)
-- Linux  
+![2](2.png)    
 
 ##### ACTIVITY  
 - K-Bon Junior  
