@@ -31,6 +31,7 @@ Grade : 2th
 
 ##### ACTIVITY  
 - K-Bon Junior  
+![1](kbon.jpg)
 - X - Tric  
 - fimp
  ------------------------  
